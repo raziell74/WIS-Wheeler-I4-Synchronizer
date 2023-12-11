@@ -144,7 +144,7 @@
       "prettier --write"
     ],
     "*.{ts,tsx,js,mjs,mts}": [
-      "eslint --fix --max-warnings=0"
+      "eslint --fix"
     ]
   },
   "dependencies": {
