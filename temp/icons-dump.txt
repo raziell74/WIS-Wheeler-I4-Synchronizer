@@ -1,0 +1,1031 @@
+[HEADER]        File version: 10
+[HEADER]        File is zlib compressed. Ratio: 86%
+[HEADER]        File size: 33484
+[HEADER]        Frame rate: 24.000000
+[HEADER]        Frame count: 119
+[HEADER]        Movie width: 128.00
+[HEADER]        Movie height: 128.00
+[045]         4 FILEATTRIBUTES
+[009]         3 SETBACKGROUNDCOLOR (00/00/00)
+[00c]         2 DOACTION
+[016]       207 DEFINESHAPE2 defines id 0001
+[01a]        17 PLACEOBJECT2 places id 0001 at depth 0003
+[001]         0 SHOWFRAME 1 (00:00:00,000)
+[02b]        14 FRAMELABEL "potion_skooma"
+[002]       165 DEFINESHAPE defines id 0002
+[027]         4 DEFINESPRITE defines id 0003
+[01a]         6          PLACEOBJECT2 places id 0002 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0003 at depth 0004
+[001]         0 SHOWFRAME 2 (00:00:00,042) (label "potion_skooma")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "potion_vial"
+[002]       236 DEFINESHAPE defines id 0004
+[027]         4 DEFINESPRITE defines id 0005
+[01a]         6          PLACEOBJECT2 places id 0004 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0005 at depth 0004
+[001]         0 SHOWFRAME 3 (00:00:00,083) (label "potion_vial")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        20 FRAMELABEL "misc_artifactdaedra"
+[002]       578 DEFINESHAPE defines id 0006
+[027]         4 DEFINESPRITE defines id 0007
+[01a]         6          PLACEOBJECT2 places id 0006 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0007 at depth 0004
+[001]         0 SHOWFRAME 4 (00:00:00,125) (label "misc_artifactdaedra")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        19 FRAMELABEL "misc_karstaagskull"
+[002]      1612 DEFINESHAPE defines id 0008
+[027]         4 DEFINESPRITE defines id 0009
+[01a]         6          PLACEOBJECT2 places id 0008 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0009 at depth 0004
+[001]         0 SHOWFRAME 5 (00:00:00,167) (label "misc_karstaagskull")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "misc_mortar"
+[002]       336 DEFINESHAPE defines id 0010
+[027]         4 DEFINESPRITE defines id 0011
+[01a]         6          PLACEOBJECT2 places id 0010 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0011 at depth 0004
+[001]         0 SHOWFRAME 6 (00:00:00,208) (label "misc_mortar")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "misc_satchel"
+[002]       383 DEFINESHAPE defines id 0012
+[027]         4 DEFINESPRITE defines id 0013
+[01a]         6          PLACEOBJECT2 places id 0012 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0013 at depth 0004
+[001]         0 SHOWFRAME 7 (00:00:00,250) (label "misc_satchel")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "weapon_bullet
+"
+[002]       401 DEFINESHAPE defines id 0014
+[027]         4 DEFINESPRITE defines id 0015
+[01a]         6          PLACEOBJECT2 places id 0014 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0015 at depth 0004
+[001]         0 SHOWFRAME 8 (00:00:00,292) (label "weapon_bullet
+")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        17 FRAMELABEL "weapon_daggerrev"
+[002]       121 DEFINESHAPE defines id 0016
+[027]         4 DEFINESPRITE defines id 0017
+[01a]         6          PLACEOBJECT2 places id 0016 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0017 at depth 0004
+[001]         0 SHOWFRAME 9 (00:00:00,333) (label "weapon_daggerrev")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "magic_moons"
+[002]       442 DEFINESHAPE defines id 0018
+[027]         4 DEFINESPRITE defines id 0019
+[01a]         6          PLACEOBJECT2 places id 0018 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0019 at depth 0004
+[001]         0 SHOWFRAME 10 (00:00:00,375) (label "magic_moons")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "weapon_staff"
+[002]       195 DEFINESHAPE defines id 0020
+[027]         4 DEFINESPRITE defines id 0021
+[01a]         6          PLACEOBJECT2 places id 0020 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0021 at depth 0004
+[001]         0 SHOWFRAME 11 (00:00:00,417) (label "weapon_staff")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "weapon_bow"
+[002]       241 DEFINESHAPE defines id 0022
+[027]         4 DEFINESPRITE defines id 0023
+[01a]         6          PLACEOBJECT2 places id 0022 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0023 at depth 0004
+[001]         0 SHOWFRAME 12 (00:00:00,458) (label "weapon_bow")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "weapon_arrow"
+[002]        78 DEFINESHAPE defines id 0024
+[027]         4 DEFINESPRITE defines id 0025
+[01a]         6          PLACEOBJECT2 places id 0024 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0025 at depth 0004
+[001]         0 SHOWFRAME 13 (00:00:00,500) (label "weapon_arrow")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "weapon_pickaxe"
+[002]       119 DEFINESHAPE defines id 0026
+[027]         4 DEFINESPRITE defines id 0027
+[01a]         6          PLACEOBJECT2 places id 0026 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0027 at depth 0004
+[001]         0 SHOWFRAME 14 (00:00:00,542) (label "weapon_pickaxe")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "weapon_woodaxe"
+[002]        71 DEFINESHAPE defines id 0028
+[027]         4 DEFINESPRITE defines id 0029
+[01a]         6          PLACEOBJECT2 places id 0028 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0029 at depth 0004
+[001]         0 SHOWFRAME 15 (00:00:00,583) (label "weapon_woodaxe")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "weapon_crossbow"
+[002]       218 DEFINESHAPE defines id 0030
+[027]         4 DEFINESPRITE defines id 0031
+[01a]         6          PLACEOBJECT2 places id 0030 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0031 at depth 0004
+[001]         0 SHOWFRAME 16 (00:00:00,625) (label "weapon_crossbow")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "weapon_bolt"
+[002]        73 DEFINESHAPE defines id 0032
+[027]         4 DEFINESPRITE defines id 0033
+[01a]         6          PLACEOBJECT2 places id 0032 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0033 at depth 0004
+[001]         0 SHOWFRAME 17 (00:00:00,667) (label "weapon_bolt")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "default_armor"
+[002]        68 DEFINESHAPE defines id 0034
+[027]         4 DEFINESPRITE defines id 0035
+[01a]         6          PLACEOBJECT2 places id 0034 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0035 at depth 0004
+[001]         0 SHOWFRAME 18 (00:00:00,708) (label "default_armor")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "lightarmor_body"
+[002]       157 DEFINESHAPE defines id 0036
+[027]         4 DEFINESPRITE defines id 0037
+[01a]         6          PLACEOBJECT2 places id 0036 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        10 PLACEOBJECT2 places id 0037 at depth 0004
+[001]         0 SHOWFRAME 19 (00:00:00,750) (label "lightarmor_body")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "lightarmor_head"
+[002]       123 DEFINESHAPE defines id 0038
+[027]         4 DEFINESPRITE defines id 0039
+[01a]         6          PLACEOBJECT2 places id 0038 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0039 at depth 0004
+[001]         0 SHOWFRAME 20 (00:00:00,792) (label "lightarmor_head")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        17 FRAMELABEL "lightarmor_hands"
+[002]       143 DEFINESHAPE defines id 0040
+[027]         4 DEFINESPRITE defines id 0041
+[01a]         6          PLACEOBJECT2 places id 0040 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0041 at depth 0004
+[001]         0 SHOWFRAME 21 (00:00:00,833) (label "lightarmor_hands")
+[02b]        20 FRAMELABEL "lightarmor_forearms"
+[001]         0 SHOWFRAME 22 (00:00:00,875) (label "lightarmor_forearms")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "lightarmor_feet"
+[002]       114 DEFINESHAPE defines id 0042
+[027]         4 DEFINESPRITE defines id 0043
+[01a]         6          PLACEOBJECT2 places id 0042 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0043 at depth 0004
+[001]         0 SHOWFRAME 23 (00:00:00,917) (label "lightarmor_feet")
+[02b]        18 FRAMELABEL "lightarmor_calves"
+[001]         0 SHOWFRAME 24 (00:00:00,958) (label "lightarmor_calves")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        18 FRAMELABEL "lightarmor_shield"
+[002]       122 DEFINESHAPE defines id 0044
+[027]         4 DEFINESPRITE defines id 0045
+[01a]         6          PLACEOBJECT2 places id 0044 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0045 at depth 0004
+[001]         0 SHOWFRAME 25 (00:00:00,1000) (label "lightarmor_shield")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "lightarmor_mask"
+[002]       156 DEFINESHAPE defines id 0046
+[027]         4 DEFINESPRITE defines id 0047
+[01a]        13          PLACEOBJECT2 places id 0046 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0047 at depth 0004
+[001]         0 SHOWFRAME 26 (00:00:01,042) (label "lightarmor_mask")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "armor_body"
+[002]       170 DEFINESHAPE defines id 0048
+[027]         4 DEFINESPRITE defines id 0049
+[01a]         6          PLACEOBJECT2 places id 0048 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0049 at depth 0004
+[001]         0 SHOWFRAME 27 (00:00:01,083) (label "armor_body")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "armor_head"
+[002]       106 DEFINESHAPE defines id 0050
+[027]         4 DEFINESPRITE defines id 0051
+[01a]         6          PLACEOBJECT2 places id 0050 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0051 at depth 0004
+[001]         0 SHOWFRAME 28 (00:00:01,125) (label "armor_head")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "armor_hands"
+[002]       182 DEFINESHAPE defines id 0052
+[027]         4 DEFINESPRITE defines id 0053
+[01a]         6          PLACEOBJECT2 places id 0052 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0053 at depth 0004
+[001]         0 SHOWFRAME 29 (00:00:01,167) (label "armor_hands")
+[02b]        15 FRAMELABEL "armor_forearms"
+[001]         0 SHOWFRAME 30 (00:00:01,208) (label "armor_forearms")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "armor_feet"
+[002]       229 DEFINESHAPE defines id 0054
+[027]         4 DEFINESPRITE defines id 0055
+[01a]         6          PLACEOBJECT2 places id 0054 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0055 at depth 0004
+[001]         0 SHOWFRAME 31 (00:00:01,250) (label "armor_feet")
+[02b]        13 FRAMELABEL "armor_calves"
+[001]         0 SHOWFRAME 32 (00:00:01,292) (label "armor_calves")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "armor_shield"
+[002]       137 DEFINESHAPE defines id 0056
+[027]         4 DEFINESPRITE defines id 0057
+[01a]         6          PLACEOBJECT2 places id 0056 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0057 at depth 0004
+[001]         0 SHOWFRAME 33 (00:00:01,333) (label "armor_shield")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "armor_mask"
+[027]         4 DEFINESPRITE defines id 0058
+[01a]        12          PLACEOBJECT2 places id 0046 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0058 at depth 0004
+[001]         0 SHOWFRAME 34 (00:00:01,375) (label "armor_mask")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "armor_bracer"
+[002]       205 DEFINESHAPE defines id 0059
+[027]         4 DEFINESPRITE defines id 0060
+[01a]         6          PLACEOBJECT2 places id 0059 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0060 at depth 0004
+[001]         0 SHOWFRAME 35 (00:00:01,417) (label "armor_bracer")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "armor_daedra"
+[002]       245 DEFINESHAPE defines id 0061
+[027]         4 DEFINESPRITE defines id 0062
+[01a]         6          PLACEOBJECT2 places id 0061 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        17 PLACEOBJECT2 places id 0062 at depth 0004
+[001]         0 SHOWFRAME 36 (00:00:01,458) (label "armor_daedra")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "clothing_body"
+[002]       179 DEFINESHAPE defines id 0063
+[027]         4 DEFINESPRITE defines id 0064
+[01a]         6          PLACEOBJECT2 places id 0063 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        10 PLACEOBJECT2 places id 0064 at depth 0004
+[001]         0 SHOWFRAME 37 (00:00:01,500) (label "clothing_body")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "clothing_robe"
+[002]       150 DEFINESHAPE defines id 0065
+[027]         4 DEFINESPRITE defines id 0066
+[01a]         6          PLACEOBJECT2 places id 0065 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0066 at depth 0004
+[001]         0 SHOWFRAME 38 (00:00:01,542) (label "clothing_robe")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "clothing_head"
+[002]       135 DEFINESHAPE defines id 0067
+[027]         4 DEFINESPRITE defines id 0068
+[01a]         6          PLACEOBJECT2 places id 0067 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0068 at depth 0004
+[001]         0 SHOWFRAME 39 (00:00:01,583) (label "clothing_head")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "clothing_pants"
+[002]       143 DEFINESHAPE defines id 0069
+[027]         4 DEFINESPRITE defines id 0070
+[01a]         6          PLACEOBJECT2 places id 0069 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0070 at depth 0004
+[001]         0 SHOWFRAME 40 (00:00:01,625) (label "clothing_pants")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "clothing_hands"
+[002]       135 DEFINESHAPE defines id 0071
+[027]         4 DEFINESPRITE defines id 0072
+[01a]         6          PLACEOBJECT2 places id 0071 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0072 at depth 0004
+[001]         0 SHOWFRAME 41 (00:00:01,667) (label "clothing_hands")
+[02b]        18 FRAMELABEL "clothing_forearms"
+[001]         0 SHOWFRAME 42 (00:00:01,708) (label "clothing_forearms")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "clothing_feet"
+[002]       123 DEFINESHAPE defines id 0073
+[027]         4 DEFINESPRITE defines id 0074
+[01a]         6          PLACEOBJECT2 places id 0073 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0074 at depth 0004
+[001]         0 SHOWFRAME 43 (00:00:01,750) (label "clothing_feet")
+[02b]        16 FRAMELABEL "clothing_calves"
+[001]         0 SHOWFRAME 44 (00:00:01,792) (label "clothing_calves")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "clothing_shoes"
+[002]        70 DEFINESHAPE defines id 0075
+[027]         4 DEFINESPRITE defines id 0076
+[01a]         6          PLACEOBJECT2 places id 0075 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0076 at depth 0004
+[001]         0 SHOWFRAME 45 (00:00:01,833) (label "clothing_shoes")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "clothing_shield"
+[002]        55 DEFINESHAPE defines id 0077
+[027]         4 DEFINESPRITE defines id 0078
+[01a]         6          PLACEOBJECT2 places id 0077 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0078 at depth 0004
+[001]         0 SHOWFRAME 46 (00:00:01,875) (label "clothing_shield")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "clothing_mask"
+[027]         4 DEFINESPRITE defines id 0079
+[01a]         6          PLACEOBJECT2 places id 0046 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0079 at depth 0004
+[001]         0 SHOWFRAME 47 (00:00:01,917) (label "clothing_mask")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "armor_amulet"
+[002]       231 DEFINESHAPE defines id 0080
+[027]         4 DEFINESPRITE defines id 0081
+[01a]         6          PLACEOBJECT2 places id 0080 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0081 at depth 0004
+[001]         0 SHOWFRAME 48 (00:00:01,958) (label "armor_amulet")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "armor_ring"
+[002]       224 DEFINESHAPE defines id 0082
+[027]         4 DEFINESPRITE defines id 0083
+[01a]         6          PLACEOBJECT2 places id 0082 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0083 at depth 0004
+[001]         0 SHOWFRAME 49 (00:00:01,1000) (label "armor_ring")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "armor_circlet"
+[002]       251 DEFINESHAPE defines id 0084
+[027]         4 DEFINESPRITE defines id 0085
+[01a]         6          PLACEOBJECT2 places id 0084 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0085 at depth 0004
+[001]         0 SHOWFRAME 50 (00:00:02,042) (label "armor_circlet")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "default_scroll"
+[002]       289 DEFINESHAPE defines id 0086
+[027]         4 DEFINESPRITE defines id 0087
+[01a]         6          PLACEOBJECT2 places id 0086 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0087 at depth 0004
+[001]         0 SHOWFRAME 51 (00:00:02,083) (label "default_scroll")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "default_book"
+[002]       126 DEFINESHAPE defines id 0088
+[027]         4 DEFINESPRITE defines id 0089
+[01a]         6          PLACEOBJECT2 places id 0088 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0089 at depth 0004
+[001]         0 SHOWFRAME 52 (00:00:02,125) (label "default_book")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        18 FRAMELABEL "default_book_read"
+[002]       572 DEFINESHAPE defines id 0090
+[027]         4 DEFINESPRITE defines id 0091
+[01a]         6          PLACEOBJECT2 places id 0090 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0091 at depth 0004
+[001]         0 SHOWFRAME 53 (00:00:02,167) (label "default_book_read")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "book_tome"
+[002]       284 DEFINESHAPE defines id 0092
+[027]         4 DEFINESPRITE defines id 0093
+[01a]         6          PLACEOBJECT2 places id 0092 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0093 at depth 0004
+[001]         0 SHOWFRAME 54 (00:00:02,208) (label "book_tome")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "book_tome_read"
+[002]       575 DEFINESHAPE defines id 0094
+[027]         4 DEFINESPRITE defines id 0095
+[01a]         6          PLACEOBJECT2 places id 0094 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0095 at depth 0004
+[001]         0 SHOWFRAME 55 (00:00:02,250) (label "book_tome_read")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "book_journal"
+[002]       129 DEFINESHAPE defines id 0096
+[027]         4 DEFINESPRITE defines id 0097
+[01a]         6          PLACEOBJECT2 places id 0096 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0097 at depth 0004
+[001]         0 SHOWFRAME 56 (00:00:02,292) (label "book_journal")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "book_note"
+[002]       185 DEFINESHAPE defines id 0098
+[027]         4 DEFINESPRITE defines id 0099
+[01a]         6          PLACEOBJECT2 places id 0098 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0099 at depth 0004
+[001]         0 SHOWFRAME 57 (00:00:02,333) (label "book_note")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]         9 FRAMELABEL "book_map"
+[002]       355 DEFINESHAPE defines id 0100
+[027]         4 DEFINESPRITE defines id 0101
+[01a]         6          PLACEOBJECT2 places id 0100 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0101 at depth 0004
+[001]         0 SHOWFRAME 58 (00:00:02,375) (label "book_map")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "default_food"
+[002]       168 DEFINESHAPE defines id 0102
+[027]         4 DEFINESPRITE defines id 0103
+[01a]         6          PLACEOBJECT2 places id 0102 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0103 at depth 0004
+[001]         0 SHOWFRAME 59 (00:00:02,417) (label "default_food")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "food_wine"
+[002]       179 DEFINESHAPE defines id 0104
+[027]         4 DEFINESPRITE defines id 0105
+[01a]         6          PLACEOBJECT2 places id 0104 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0105 at depth 0004
+[001]         0 SHOWFRAME 60 (00:00:02,458) (label "food_wine")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "food_beer"
+[002]       123 DEFINESHAPE defines id 0106
+[027]         4 DEFINESPRITE defines id 0107
+[01a]         6          PLACEOBJECT2 places id 0106 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0107 at depth 0004
+[001]         0 SHOWFRAME 61 (00:00:02,500) (label "food_beer")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        19 FRAMELABEL "default_ingredient"
+[002]       214 DEFINESHAPE defines id 0108
+[027]         4 DEFINESPRITE defines id 0109
+[01a]         6          PLACEOBJECT2 places id 0108 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0109 at depth 0004
+[001]         0 SHOWFRAME 62 (00:00:02,542) (label "default_ingredient")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "default_key"
+[002]       164 DEFINESHAPE defines id 0110
+[027]         4 DEFINESPRITE defines id 0111
+[01a]         6          PLACEOBJECT2 places id 0110 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0111 at depth 0004
+[001]         0 SHOWFRAME 63 (00:00:02,583) (label "default_key")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "key_house"
+[002]       132 DEFINESHAPE defines id 0112
+[027]         4 DEFINESPRITE defines id 0113
+[01a]         6          PLACEOBJECT2 places id 0112 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0113 at depth 0004
+[001]         0 SHOWFRAME 64 (00:00:02,625) (label "key_house")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "default_potion"
+[002]       192 DEFINESHAPE defines id 0114
+[027]         4 DEFINESPRITE defines id 0115
+[01a]         6          PLACEOBJECT2 places id 0114 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0115 at depth 0004
+[001]         0 SHOWFRAME 65 (00:00:02,667) (label "default_potion")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "potion_health"
+[002]       228 DEFINESHAPE defines id 0116
+[027]         4 DEFINESPRITE defines id 0117
+[01a]         6          PLACEOBJECT2 places id 0116 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0117 at depth 0004
+[001]         0 SHOWFRAME 66 (00:00:02,708) (label "potion_health")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "potion_stam"
+[002]       265 DEFINESHAPE defines id 0118
+[027]         4 DEFINESPRITE defines id 0119
+[01a]         6          PLACEOBJECT2 places id 0118 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0119 at depth 0004
+[001]         0 SHOWFRAME 67 (00:00:02,750) (label "potion_stam")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "potion_magic"
+[002]       321 DEFINESHAPE defines id 0120
+[027]         4 DEFINESPRITE defines id 0121
+[01a]         6          PLACEOBJECT2 places id 0120 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0121 at depth 0004
+[001]         0 SHOWFRAME 68 (00:00:02,792) (label "potion_magic")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "potion_poison"
+[002]       460 DEFINESHAPE defines id 0122
+[027]         4 DEFINESPRITE defines id 0123
+[01a]         6          PLACEOBJECT2 places id 0122 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0123 at depth 0004
+[001]         0 SHOWFRAME 69 (00:00:02,833) (label "potion_poison")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "potion_frost"
+[002]       533 DEFINESHAPE defines id 0124
+[027]         4 DEFINESPRITE defines id 0125
+[01a]         6          PLACEOBJECT2 places id 0124 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0125 at depth 0004
+[001]         0 SHOWFRAME 70 (00:00:02,875) (label "potion_frost")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "potion_fire"
+[002]       200 DEFINESHAPE defines id 0126
+[027]         4 DEFINESPRITE defines id 0127
+[01a]         6          PLACEOBJECT2 places id 0126 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0127 at depth 0004
+[001]         0 SHOWFRAME 71 (00:00:02,917) (label "potion_fire")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "potion_shock"
+[002]       146 DEFINESHAPE defines id 0128
+[027]         4 DEFINESPRITE defines id 0129
+[01a]         6          PLACEOBJECT2 places id 0128 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0129 at depth 0004
+[001]         0 SHOWFRAME 72 (00:00:02,958) (label "potion_shock")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "default_misc"
+[002]       143 DEFINESHAPE defines id 0130
+[027]         4 DEFINESPRITE defines id 0131
+[01a]         6          PLACEOBJECT2 places id 0130 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0131 at depth 0004
+[001]         0 SHOWFRAME 73 (00:00:02,1000) (label "default_misc")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "misc_artifact"
+[002]        90 DEFINESHAPE defines id 0132
+[027]         4 DEFINESPRITE defines id 0133
+[01a]         6          PLACEOBJECT2 places id 0132 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0133 at depth 0004
+[001]         0 SHOWFRAME 74 (00:00:03,042) (label "misc_artifact")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "misc_clutter"
+[002]       137 DEFINESHAPE defines id 0134
+[027]         4 DEFINESPRITE defines id 0135
+[01a]         6          PLACEOBJECT2 places id 0134 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0135 at depth 0004
+[001]         0 SHOWFRAME 75 (00:00:03,083) (label "misc_clutter")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "misc_lockpick"
+[002]        65 DEFINESHAPE defines id 0136
+[027]         4 DEFINESPRITE defines id 0137
+[01a]         6          PLACEOBJECT2 places id 0136 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0137 at depth 0004
+[001]         0 SHOWFRAME 76 (00:00:03,125) (label "misc_lockpick")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "misc_soulgem"
+[002]        78 DEFINESHAPE defines id 0138
+[027]         4 DEFINESPRITE defines id 0139
+[01a]        13          PLACEOBJECT2 places id 0138 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0139 at depth 0004
+[001]         0 SHOWFRAME 77 (00:00:03,167) (label "misc_soulgem")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "soulgem_empty"
+[002]       107 DEFINESHAPE defines id 0140
+[027]         4 DEFINESPRITE defines id 0141
+[01a]         6          PLACEOBJECT2 places id 0140 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0141 at depth 0004
+[001]         0 SHOWFRAME 78 (00:00:03,208) (label "soulgem_empty")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "soulgem_partial"
+[002]       113 DEFINESHAPE defines id 0142
+[027]         4 DEFINESPRITE defines id 0143
+[01a]         6          PLACEOBJECT2 places id 0142 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0143 at depth 0004
+[001]         0 SHOWFRAME 79 (00:00:03,250) (label "soulgem_partial")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "soulgem_full"
+[027]         4 DEFINESPRITE defines id 0144
+[01a]         6          PLACEOBJECT2 places id 0138 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0144 at depth 0004
+[001]         0 SHOWFRAME 80 (00:00:03,292) (label "soulgem_full")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        19 FRAMELABEL "soulgem_grandempty"
+[002]       158 DEFINESHAPE defines id 0145
+[027]         4 DEFINESPRITE defines id 0146
+[01a]         6          PLACEOBJECT2 places id 0145 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        10 PLACEOBJECT2 places id 0146 at depth 0004
+[001]         0 SHOWFRAME 81 (00:00:03,333) (label "soulgem_grandempty")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        21 FRAMELABEL "soulgem_grandpartial"
+[002]       133 DEFINESHAPE defines id 0147
+[027]         4 DEFINESPRITE defines id 0148
+[01a]         6          PLACEOBJECT2 places id 0147 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        10 PLACEOBJECT2 places id 0148 at depth 0004
+[001]         0 SHOWFRAME 82 (00:00:03,375) (label "soulgem_grandpartial")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        18 FRAMELABEL "soulgem_grandfull"
+[002]        99 DEFINESHAPE defines id 0149
+[027]         4 DEFINESPRITE defines id 0150
+[01a]         6          PLACEOBJECT2 places id 0149 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        10 PLACEOBJECT2 places id 0150 at depth 0004
+[001]         0 SHOWFRAME 83 (00:00:03,417) (label "soulgem_grandfull")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "soulgem_azura"
+[002]       869 DEFINESHAPE defines id 0151
+[027]         4 DEFINESPRITE defines id 0152
+[01a]         6          PLACEOBJECT2 places id 0151 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        10 PLACEOBJECT2 places id 0152 at depth 0004
+[001]         0 SHOWFRAME 84 (00:00:03,458) (label "soulgem_azura")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]         9 FRAMELABEL "misc_gem"
+[002]       151 DEFINESHAPE defines id 0153
+[027]         4 DEFINESPRITE defines id 0154
+[01a]         6          PLACEOBJECT2 places id 0153 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0154 at depth 0004
+[001]         0 SHOWFRAME 85 (00:00:03,500) (label "misc_gem")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]         9 FRAMELABEL "misc_ore"
+[002]       236 DEFINESHAPE defines id 0155
+[027]         4 DEFINESPRITE defines id 0156
+[01a]         6          PLACEOBJECT2 places id 0155 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0156 at depth 0004
+[001]         0 SHOWFRAME 86 (00:00:03,542) (label "misc_ore")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "misc_ingot"
+[002]        76 DEFINESHAPE defines id 0157
+[027]         4 DEFINESPRITE defines id 0158
+[01a]         6          PLACEOBJECT2 places id 0157 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0158 at depth 0004
+[001]         0 SHOWFRAME 87 (00:00:03,583) (label "misc_ingot")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "misc_hide"
+[002]       107 DEFINESHAPE defines id 0159
+[027]         4 DEFINESPRITE defines id 0160
+[01a]         6          PLACEOBJECT2 places id 0159 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0160 at depth 0004
+[001]         0 SHOWFRAME 88 (00:00:03,625) (label "misc_hide")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "misc_strips"
+[002]       183 DEFINESHAPE defines id 0161
+[027]         4 DEFINESPRITE defines id 0162
+[01a]         6          PLACEOBJECT2 places id 0161 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0162 at depth 0004
+[001]         0 SHOWFRAME 89 (00:00:03,667) (label "misc_strips")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "misc_leather"
+[002]        87 DEFINESHAPE defines id 0163
+[027]         4 DEFINESPRITE defines id 0164
+[01a]         6          PLACEOBJECT2 places id 0163 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0164 at depth 0004
+[001]         0 SHOWFRAME 90 (00:00:03,708) (label "misc_leather")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "misc_wood"
+[002]       328 DEFINESHAPE defines id 0165
+[027]         4 DEFINESPRITE defines id 0166
+[01a]         6          PLACEOBJECT2 places id 0165 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0166 at depth 0004
+[001]         0 SHOWFRAME 91 (00:00:03,750) (label "misc_wood")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "misc_remains"
+[002]       201 DEFINESHAPE defines id 0167
+[027]         4 DEFINESPRITE defines id 0168
+[01a]         6          PLACEOBJECT2 places id 0167 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0168 at depth 0004
+[001]         0 SHOWFRAME 92 (00:00:03,792) (label "misc_remains")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "misc_trollskull"
+[002]       257 DEFINESHAPE defines id 0169
+[027]         4 DEFINESPRITE defines id 0170
+[01a]         6          PLACEOBJECT2 places id 0169 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0170 at depth 0004
+[001]         0 SHOWFRAME 93 (00:00:03,833) (label "misc_trollskull")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "misc_torch"
+[002]       175 DEFINESHAPE defines id 0171
+[027]         4 DEFINESPRITE defines id 0172
+[01a]         6          PLACEOBJECT2 places id 0171 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0172 at depth 0004
+[001]         0 SHOWFRAME 94 (00:00:03,875) (label "misc_torch")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "misc_goldsack"
+[002]       225 DEFINESHAPE defines id 0173
+[027]         4 DEFINESPRITE defines id 0174
+[01a]         6          PLACEOBJECT2 places id 0173 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        12 PLACEOBJECT2 places id 0174 at depth 0004
+[001]         0 SHOWFRAME 95 (00:00:03,917) (label "misc_goldsack")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        10 FRAMELABEL "misc_gold"
+[002]       347 DEFINESHAPE defines id 0175
+[027]         4 DEFINESPRITE defines id 0176
+[01a]         6          PLACEOBJECT2 places id 0175 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        16 PLACEOBJECT2 places id 0176 at depth 0004
+[001]         0 SHOWFRAME 96 (00:00:03,958) (label "misc_gold")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        16 FRAMELABEL "misc_dragonclaw"
+[002]        82 DEFINESHAPE defines id 0177
+[027]         4 DEFINESPRITE defines id 0178
+[01a]         6          PLACEOBJECT2 places id 0177 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        12 PLACEOBJECT2 places id 0178 at depth 0004
+[001]         0 SHOWFRAME 97 (00:00:03,1000) (label "misc_dragonclaw")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        19 FRAMELABEL "default_alteration"
+[002]       463 DEFINESHAPE defines id 0179
+[027]         4 DEFINESPRITE defines id 0180
+[01a]         6          PLACEOBJECT2 places id 0179 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0180 at depth 0004
+[001]         0 SHOWFRAME 98 (00:00:04,042) (label "default_alteration")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        17 FRAMELABEL "default_illusion"
+[002]       498 DEFINESHAPE defines id 0181
+[027]         4 DEFINESPRITE defines id 0182
+[01a]         6          PLACEOBJECT2 places id 0181 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0182 at depth 0004
+[001]         0 SHOWFRAME 99 (00:00:04,083) (label "default_illusion")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        20 FRAMELABEL "default_destruction"
+[002]       467 DEFINESHAPE defines id 0183
+[027]         4 DEFINESPRITE defines id 0184
+[01a]         6          PLACEOBJECT2 places id 0183 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0184 at depth 0004
+[001]         0 SHOWFRAME 100 (00:00:04,125) (label "default_destruction")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        20 FRAMELABEL "default_conjuration"
+[002]       199 DEFINESHAPE defines id 0185
+[027]         4 DEFINESPRITE defines id 0186
+[01a]         6          PLACEOBJECT2 places id 0185 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0186 at depth 0004
+[001]         0 SHOWFRAME 101 (00:00:04,167) (label "default_conjuration")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        20 FRAMELABEL "default_restoration"
+[002]       343 DEFINESHAPE defines id 0187
+[027]         4 DEFINESPRITE defines id 0188
+[01a]         6          PLACEOBJECT2 places id 0187 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0188 at depth 0004
+[001]         0 SHOWFRAME 102 (00:00:04,208) (label "default_restoration")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "default_shout"
+[002]       428 DEFINESHAPE defines id 0189
+[027]         4 DEFINESPRITE defines id 0190
+[01a]         6          PLACEOBJECT2 places id 0189 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0190 at depth 0004
+[001]         0 SHOWFRAME 103 (00:00:04,250) (label "default_shout")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        14 FRAMELABEL "default_power"
+[002]       427 DEFINESHAPE defines id 0191
+[027]         4 DEFINESPRITE defines id 0192
+[01a]         6          PLACEOBJECT2 places id 0191 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        15 PLACEOBJECT2 places id 0192 at depth 0004
+[001]         0 SHOWFRAME 104 (00:00:04,292) (label "default_power")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        15 FRAMELABEL "default_effect"
+[002]       361 DEFINESHAPE defines id 0193
+[027]         4 DEFINESPRITE defines id 0194
+[01a]         6          PLACEOBJECT2 places id 0193 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        14 PLACEOBJECT2 places id 0194 at depth 0004
+[001]         0 SHOWFRAME 105 (00:00:04,333) (label "default_effect")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        11 FRAMELABEL "magic_fire"
+[002]       102 DEFINESHAPE defines id 0195
+[027]         4 DEFINESPRITE defines id 0196
+[01a]         6          PLACEOBJECT2 places id 0195 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0196 at depth 0004
+[001]         0 SHOWFRAME 106 (00:00:04,375) (label "magic_fire")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "magic_frost"
+[002]       492 DEFINESHAPE defines id 0197
+[027]         4 DEFINESPRITE defines id 0198
+[01a]         6          PLACEOBJECT2 places id 0197 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        11 PLACEOBJECT2 places id 0198 at depth 0004
+[001]         0 SHOWFRAME 107 (00:00:04,417) (label "magic_frost")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        12 FRAMELABEL "magic_shock"
+[002]        47 DEFINESHAPE defines id 0199
+[027]         4 DEFINESPRITE defines id 0200
+[01a]         6          PLACEOBJECT2 places id 0199 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[000]         0          END
+[01a]        12 PLACEOBJECT2 places id 0200 at depth 0004
+[001]         0 SHOWFRAME 108 (00:00:04,458) (label "magic_shock")
+[01c]         2 REMOVEOBJECT2 removes object from depth 0004
+[02b]        13 FRAMELABEL "weapon_spear"
+[002]       128 DEFINESHAPE defines id 0201
+[027]         4 DEFINESPRITE defines id 0202
+[01a]         6          PLACEOBJECT2 places id 0201 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0202 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        15          FRAMELABEL "weapon_javelin"
+[002]       135          DEFINESHAPE defines id 0203
+[027]         4          DEFINESPRITE defines id 0204
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0203 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0204 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        12          FRAMELABEL "weapon_pike"
+[002]       168          DEFINESHAPE defines id 0205
+[027]         4          DEFINESPRITE defines id 0206
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0205 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0206 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        15          FRAMELABEL "weapon_halberd"
+[002]       263          DEFINESHAPE defines id 0207
+[027]         4          DEFINESPRITE defines id 0208
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0207 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0208 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        14          FRAMELABEL "weapon_rapier"
+[002]       334          DEFINESHAPE defines id 0209
+[027]         4          DEFINESPRITE defines id 0210
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0209 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0210 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        20          FRAMELABEL "weapon_quarterstaff"
+[002]       338          DEFINESHAPE defines id 0211
+[027]         4          DEFINESPRITE defines id 0212
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0211 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0212 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        12          FRAMELABEL "weapon_claw"
+[002]       267          DEFINESHAPE defines id 0213
+[027]         4          DEFINESPRITE defines id 0214
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0213 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0214 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        12          FRAMELABEL "weapon_whip"
+[002]       471          DEFINESHAPE defines id 0215
+[027]         4          DEFINESPRITE defines id 0216
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0215 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0216 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        14          FRAMELABEL "weapon_katana"
+[002]       322          DEFINESHAPE defines id 0217
+[027]         4          DEFINESPRITE defines id 0218
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0217 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0218 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        14          FRAMELABEL "weapon_scythe"
+[002]       334          DEFINESHAPE defines id 0219
+[027]         4          DEFINESPRITE defines id 0220
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0219 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0220 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[01c]         2          REMOVEOBJECT2 removes object from depth 0004
+[02b]        11          FRAMELABEL "weapon_gun"
+[002]       321          DEFINESHAPE defines id 0221
+[027]         4          DEFINESPRITE defines id 0222
+==== Error: Sprite definition inside a sprite definition ====
+[01a]         6          PLACEOBJECT2 places id 0221 at depth 0001
+[001]         0          SHOWFRAME 1 (00:00:00,000)
+[01a]         8          PLACEOBJECT2 places id 0222 at depth 0004
+[001]         0          SHOWFRAME 2 (00:00:00,042)
+[000]         0          END

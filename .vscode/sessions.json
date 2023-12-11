@@ -1,0 +1,29 @@
+{
+  "$schema": "https://cdn.statically.io/gh/nguyenngoclongdev/cdn/main/schema/v9/terminal-keeper.json",
+  "theme": "default",
+  "active": "default",
+  "activateOnStartup": false,
+  "keepExistingTerminals": false,
+  "sessions": {
+    "default": [
+      {
+        "name": "Git Bash",
+        "commands": [
+          "clear"
+        ],
+        "autoExecuteCommands": true,
+        "color": "terminal.ansiYellow",
+        "icon": "git-branch"
+      },
+      {
+        "name": "Run Logs",
+        "commands": [
+          "clear"
+        ],
+        "autoExecuteCommands": true,
+        "color": "terminal.ansiGreen",
+        "icon": "repo"
+      }
+    ]
+  }
+}
