@@ -6,6 +6,7 @@
 
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft'
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'
+import SyncAltIcon from '@mui/icons-material/SyncAlt'
 import CodeIcon from '@mui/icons-material/Code'
 import LayersIcon from '@mui/icons-material/Layers'
 import SettingsIcon from '@mui/icons-material/Settings'
@@ -35,14 +36,9 @@ function PageDrawer() {
   const links = useMemo(
     () => [
       {
-        Icon: CodeIcon,
-        text: t('nav.compilation'),
-        path: '/compilation',
-      },
-      {
-        Icon: LayersIcon,
-        text: t('nav.groups'),
-        path: '/groups',
+        Icon: SyncAltIcon,
+        text: t('nav.synchronize'),
+        path: '/synchronize',
       },
       {
         Icon: SettingsIcon,

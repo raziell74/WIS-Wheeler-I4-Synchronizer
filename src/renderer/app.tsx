@@ -41,7 +41,7 @@ function App() {
 
   return (
     <>
-      <Titlebar title={`PCA ${releaseVersion}`} />
+      <Titlebar title={`WIS ${releaseVersion}`} />
       {!done && (
         <div className="fixed top-0 left-0 z-20 flex h-full w-full items-center justify-center bg-light-400 dark:bg-darker">
           <div className="text-center text-4xl">{t('loading')}</div>

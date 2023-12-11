@@ -34,6 +34,7 @@ export interface TranslationShape {
   }
   loading: string
   nav: {
+    synchronize: string
     compilation: string
     groups: string
     settings: string
@@ -53,6 +54,9 @@ export interface TranslationShape {
     'checkError_mo2-use-no-instance': string
   }
   page: {
+    synchronize: {
+      title: string
+    }
     compilation: {
       title: string
       actions: {

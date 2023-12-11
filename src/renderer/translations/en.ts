@@ -54,6 +54,7 @@ export const en: TranslationShape = {
   },
   loading: 'Loading',
   nav: {
+    synchronize: 'Synchronize',
     compilation: 'Compilation',
     groups: 'Groups',
     settings: 'Settings',
@@ -65,6 +66,9 @@ export const en: TranslationShape = {
     },
   },
   page: {
+    synchronize: {
+      title: 'Synchronize i4 to Wheeler',
+    },
     compilation: {
       title: 'Compilation',
       actions: {
