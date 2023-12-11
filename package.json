@@ -146,5 +146,9 @@
     "*.{ts,tsx,js,mjs,mts}": [
       "eslint --fix --max-warnings=0"
     ]
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "svg-png-converter": "^0.0.9"
   }
 }
