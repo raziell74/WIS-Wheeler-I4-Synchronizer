@@ -149,6 +149,7 @@
   },
   "dependencies": {
     "install": "^0.13.0",
+    "svg-fill": "^2.0.4",
     "svg-png-converter": "^0.0.9"
   }
 }

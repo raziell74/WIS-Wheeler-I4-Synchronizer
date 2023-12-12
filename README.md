@@ -11,7 +11,7 @@ MO2 users be sure to set `WIS` as an executable and run it through MO2, this wil
 
 # Step 1 - i4 Configuration Mapping
 
-This is the first step of the automation process. 
+This is the first step of the automation process.
 The results will be cached in a json file.
 The user can view the configuration in its own screen and make manual adjustments at any time.
 They will also have the option to refresh this mapping by rerunning this step. Refreshing will overwrite any manual adjustments made by the user.
@@ -42,16 +42,16 @@ This step utilizes SWFTool executables to process the .swf files at the command 
 
 ## Dump info on swf files strings
 
-***Run the Command***
+**_Run the Command_**
 
 ```javascript
-const swfToolsPath = "C:\\path\\to\\swftools";
-const iconsSwfFile = "C:\\example\\path\\to\\icons.swf";
-const dumpCmd = `swfdump.exe -t "${iconsSwfFile}"`;
+const swfToolsPath = 'C:\\path\\to\\swftools'
+const iconsSwfFile = 'C:\\example\\path\\to\\icons.swf'
+const dumpCmd = `swfdump.exe -t "${iconsSwfFile}"`
 const dumpData = await executeCommand(dumpCmd, swfToolsPath)
 ```
 
-***Swf Dump Output Example***
+**_Swf Dump Output Example_**
 
 ```txt
 [HEADER]        File version: 10
@@ -99,7 +99,7 @@ const dumpData = await executeCommand(dumpCmd, swfToolsPath)
 
 ## Parse swfdump output and build map of frame labels to frame numbers
 
-***Code Snippet to parse the swfdump output***
+**_Code Snippet to parse the swfdump output_**
 
 ```javascript
 const dumpData = await executeCommand(cmd, gamePath)
@@ -126,7 +126,7 @@ for (const match of matches) {
 const swfToolsPath = "C:\\path\\to\\swftools";
 const iconsSwfFile = "C:\\example\\path\\to\\icons.swf";
 
-... 
+...
 
 const iconName = 'potion_skooma'; // hard set as an example, will be gotten from the i4 configuration setting map
 const frameNumber = iconFrameMap.get(iconName);
@@ -142,7 +142,7 @@ const extractionResults = await executeCommand(extractionCmd, swfToolsPath)
 const swfToolsPath = "C:\\path\\to\\swftools";
 const iconIsolationSwfPath = "C:\\Temp\\potion_skooma.swf";
 
-... 
+...
 
 const iconPngPath = "C:\\Temp\\potion_skooma.png";
 const renderCmd = `swfrender.exe -o "${iconPngPath}" "${iconIsolationSwfPath}"`;
@@ -163,11 +163,11 @@ const iconPngPath = "C:\\Temp\\potion_skooma.png";
 const gamePath = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Skyrim Special Edition";
 const iconSvgPath = `${gamePath}\\SKSE\\Plugins\\wheeler\\resources\\icons\\${iconName}.svg`;
 
-const result = await png2svg({ 
-  tracer: 'imagetracer', 
+const result = await png2svg({
+  tracer: 'imagetracer',
   optimize: true,
   input: readFileSync(iconPngPath) ,
-  numberofcolors: 24, 
+  numberofcolors: 24,
   pathomit: 1,
 });
 
@@ -179,6 +179,7 @@ writeFileSync(iconSvgPath, s);
 Operational Notes
 
 - Depending on how `png2svg` handles the svg output I'll have to strip all svg elements of any style and fill attributes so a global fill can be applied to the svg. This will allow us to apply the color to the icon.
+- Can use (svg-fill)[https://www.npmjs.com/package/svg-fill] to apply the color to the svg on every element
 
 ```javascript
 const iconName = 'potion_skooma'; // hard set as an example, will be gotten from the i4 configuration setting map
