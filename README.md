@@ -106,7 +106,7 @@ const dumpData = await executeCommand(cmd, gamePath)
 
 ...
 
-const iconParseRegex = /\[(\w+)\]\s+\d+\s+FRAMELABEL "(\w+)"\n\[\d+\]\s+\d+\s+DEFINESHAPE defines id (\d+)/g;
+const iconParseRegex = /\[02b\]\s+\d+\s+FRAMELABEL "(?<label>\w+)"\n*\s*\[002\]\s+\d+\s+DEFINESHAPE defines id (?<id>\d+)/g;
 const matches = dumpData.matchAll(iconParseRegex);
 
 const iconFrameMap = new Map();

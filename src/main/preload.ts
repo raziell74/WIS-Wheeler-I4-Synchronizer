@@ -18,6 +18,9 @@ import type { Script } from '../common/types/script'
 import type { WindowState } from '../common/types/window-state'
 
 const api: Bridge = {
+  swftools: {
+    dump: swf => ipcRenderer.send(IpcEvent.swfDump, swf),
+  },
   telemetry: {
     send: (event, args) => {
       return ipcRenderer

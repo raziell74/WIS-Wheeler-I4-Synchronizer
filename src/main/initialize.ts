@@ -23,6 +23,7 @@ import { RecentFilesGetHandler } from './event-handlers/recent-files-get.handler
 import { RecentFilesRemoveHandler } from './event-handlers/recent-files-remove.handler'
 import { RecentFilesSetHandler } from './event-handlers/recent-files-set.handler'
 import { ScriptCompileEvent } from './event-handlers/script-compile.event'
+import { ScriptSwfDumpEvent } from './event-handlers/script-swf-dump.event'
 import { TelemetryActiveHandler } from './event-handlers/telemetry-active.handler'
 import { TelemetryHandler } from './event-handlers/telemetry.handler'
 import {
@@ -128,6 +129,7 @@ export async function initialize(
 
   const events = new Map<IpcEvent, Event>([
     [IpcEvent.compileScriptStart, new ScriptCompileEvent()],
+    [IpcEvent.swfDump, new ScriptSwfDumpEvent()],
   ])
 
   const syncs = new Map<string, EventSync>([

@@ -5,6 +5,7 @@
  */
 
 export enum IpcEvent {
+  swfDump = 'event-swf-dump-start',
   filesStats = 'event-files-stats',
   compileScriptStart = 'event-compile-script-start',
   compileScriptFinish = 'event-compile-script-finish',

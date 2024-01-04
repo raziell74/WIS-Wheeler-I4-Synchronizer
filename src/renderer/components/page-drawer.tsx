@@ -41,6 +41,11 @@ function PageDrawer() {
         path: '/synchronize',
       },
       {
+        Icon: CodeIcon,
+        text: 'Compiler',
+        path: '/compilation',
+      },
+      {
         Icon: SettingsIcon,
         text: t('nav.settings'),
         path: '/settings',

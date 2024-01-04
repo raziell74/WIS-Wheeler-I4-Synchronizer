@@ -19,6 +19,10 @@ import type { Script } from './script'
 import type { WindowState } from './window-state'
 
 export interface Bridge {
+  swftools: {
+    dump: (swf: string) => void
+  }
+
   telemetry: {
     send: <T extends TelemetryEvent>(
       event: T,
